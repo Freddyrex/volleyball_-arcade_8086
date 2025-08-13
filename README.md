@@ -1,7 +1,7 @@
 # 🏐 VOLLEY GAME — 8086 Assembly Edition
 
 **Un juego de voleibol arcade para dos jugadores, escrito completamente en lenguaje ensamblador para el Intel 8086.**  
-Proyecto académico desarrollado para la materia **Arquitectura del Computador** en **Yachay Tech University**, explorando conceptos de gráficos, entrada por teclado y física básica en modo real x86.
+Proyecto académico desarrollado para la materia **Arquitectura del Computador** en la universidad **Yachay Tech**, explorando conceptos de gráficos, entrada por teclado y física básica en modo real x86.
 
 ---
 
